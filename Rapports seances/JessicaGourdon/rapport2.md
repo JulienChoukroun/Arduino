@@ -12,4 +12,5 @@ Au vu des résultats de la semaine dernière, puisque la vitesse du moteur pas �
 ![alt text](https://github.com/JessicaJulien/projet/blob/master/Documentation/moteurtest.jpg)
 Nous avons également pris une nouvelle décision pour la réalisation des roues. Au lieu de créer les roues a l'imprimante 3D nous nous servirons de cercles en bois auxquels nous fixons autour une bande en plastique.
 ![alt text](https://github.com/JessicaJulien/projet/blob/master/Documentation/premiereroue.jpg)
+Nous devons à présent chercher des autocollants convenant avec les dimensions de la bande en plastique. Nous travaillons également sur le système de détection de chaque image sur la bande en plastique.
 
