@@ -1,6 +1,6 @@
 # Travail du 28 Décembre 2018
 <strong> Elaboration du monnayeur </strong> <br/>
-J'ai commencé à élaborer un mécanisme permettant de rendre les jatons en cas de victoire. Pour cela, j'ai réalisé un premier dessin.
+J'ai commencé à élaborer un mécanisme permettant de rendre les jetons en cas de victoire. Pour cela, j'ai réalisé un premier dessin.
 ![alt text](https://github.com/JessicaJulien/projet/blob/master/Documentation/PremierDessinMonnayeur.jpg)
 Pour ce monnayeur, nous avons besoin d'un cylindre. L'utilisation de rouleaux de papiers toilette pour réaliser celui-ci pourrait être une idée.
 Les jetons seraient alors empilés dans ce cylindre. En bas de celui-ci se trouve une ouverture à travers laquelle le dernier jeton se trouve, posé sur une plaque en bois.
