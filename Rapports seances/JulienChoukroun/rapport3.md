@@ -13,4 +13,4 @@ Voici une démonstration :
 <a href="https://www.youtube.com/watch?v=aghbIHAVvek&feature=youtu.be"><img src="https://i9.ytimg.com/vi_webp/aghbIHAVvek/hqdefault.webp?sqp=CLzT2OEF&rs=AOn4CLBZgoCJJr0aYKvDATmtY2B-olJolQ" alt="Initialisation de la roue à vitesse lente" /></a>
 Ici, j'ai testé l'initalisation de la roue à vitesse lente car j'ai eu un problème. Notre roue n'est qu'un prototype réalisé à la main donc les découpes ne sont pas parfaites. Ainsi, le détecteur passe quelque fois dans des "vides" et donc arrête la roue alors qu'il y a pas de fentes. On va donc utiliser les découpeuses laser et imprimantes 3D, afin d'obtenir une roue parfaite.
 
-# Séance du 10 janvier 2019
+# Séance du 10 Janvier 2019
