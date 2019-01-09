@@ -1,6 +1,7 @@
 # Pendant les vacances de Noël
 
-* J'ai réaliser un programme qui fait tourner la roue pendant x secondes. Voici une démonstration :
+* J'ai réaliser un programme qui fait tourner la roue pendant x secondes. Le code utilisé est le suivant :
+Voici une démonstration :
 <a href="https://www.youtube.com/watch?v=P78dixj0G8c&feature=youtu.be"><img src="https://i9.ytimg.com/vi_webp/P78dixj0G8c/hqdefault.webp?sqp=CLzT2OEF&rs=AOn4CLB07hcUmO9a3qzS6QvR912UUbnyCg" alt="Roue qui tourne et s'arrête" /></a>
 On voit que la roue possède une vitesse convenable. Nous avons donc le bon moteur.
 * J'ai mis en place le détecteur IR sur la roue afin de détecter les différents symboles à l'aide d'encoches derrière la roue. 
