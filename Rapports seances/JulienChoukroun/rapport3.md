@@ -1,5 +1,5 @@
 # Pendant les vacances de Noël
-* J'ai réaliser un programme qui fait tourner la roue pendant x secondes (mettre video).
+* J'ai réaliser un programme qui fait tourner la roue pendant x secondes (mettre video). On voit que la roue possède une vitesse convenable. Nous avons donc le bon moteur.
 * J'ai mis en place le détecteur IR sur la roue afin de détecter les différents symboles à l'aide d'encoches derrière la roue. 
 ![alt text](https://github.com/JessicaJulien/projet/blob/master/Documentation/roueAvecDetecteurIR.jpg "roue avec détecteur IR")
 J'ai commencé par programmer l'initialisation de la roue. Cela va nous servir lorsqu'on va actionner le futur bras. A ce moment là, les roues vont tourner jusqu'à trouver une fente particulière, puis s'arrêter. Voici une démonstration : (mettre video). 
