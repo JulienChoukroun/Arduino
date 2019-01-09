@@ -3,3 +3,9 @@
 
 #### Moteurs pas à pas
 https://www.gotronic.fr/cat-moteurs-pas-a-pas-1093.htm
+
+#### Servo moteur à rotation continue
+https://www.parallax.com/product/900-00025
+
+#### Guide de notre servo moteur à rotation continue
+https://www.parallax.com/sites/default/files/downloads/900-00025-High-Speed-CR-Servo-Guide-v1.1.pdf
