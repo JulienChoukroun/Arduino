@@ -9,10 +9,10 @@ Ici, le code a été créé pour éjecter 5 pièces. A l'avenir le nombre de jet
 (en effet, un 7 nous fera gagner plus de jetons qu'une cerise).
 
 <strong> Le Fablab </strong> <br/>
-Avec julien nous nous sommes rendus au Fablab dans le but d'utiliser la découpeuse laser et l'imprimante laser pour créer les composantes de la première roue.
+Avec julien nous nous sommes rendus au Fablab dans le but d'utiliser la découpeuse laser et l'imprimante 3D pour créer les composantes de la première roue.
 Face à des problèmes de matériaux non-disponibles et de format des fichiers, nous n'avons pu créer que le socle de la roue. Nous devront donc y retourner pour créer le reste des composantes ainsi que les jetons.
 
 <strong> Problème à l'avenir </strong> <br/>
-Il me reste à trouver un moyen pour faire tenir le tube de Smarties sur le socle en bois tout en laissant un écart entre le socle et le tube
-de façon  laisser passer une pièce qui sera éjectée par le servomoteur.
+Il me reste à trouver un moyen pour faire tenir le tube de Smarties sur le socle en bois tout en laissant un écart entre les deux 
+de façon à laisser passer une pièce qui sera éjectée par le servomoteur.
 
