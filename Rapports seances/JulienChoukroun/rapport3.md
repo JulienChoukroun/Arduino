@@ -19,5 +19,5 @@ Ici, j'ai testé l'initalisation de la roue à vitesse lente car j'ai eu un prob
 
 * J'ai d'abord fini de modéliser les pièces avec les bonnes dimensions finales. Voici toutes les pièces qu'on va découper/imprimer : 
 https://github.com/JessicaJulien/projet/tree/master/Pieces
-* J'ai participé à la mise en place du monnayeur avec un servomoteur à rotation 180°. On a réaliser le code qui va nous permettre de renvoyer les pièces gagnées.
+* J'ai participé à la mise en place du monnayeur avec un servomoteur à rotation 180° (fixation du servomoteur sur une petite planche de bois). Puis, on a réaliser le code qui va nous permettre de renvoyer les pièces gagnées. Le voici :
 * Suite...
