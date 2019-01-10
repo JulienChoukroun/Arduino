@@ -22,5 +22,6 @@ https://github.com/JessicaJulien/projet/tree/master/Pieces
 * J'ai participé à la mise en place du monnayeur avec un servomoteur à rotation 180° (fixation du servomoteur sur une petite planche de bois). Puis, on a réaliser le code qui va nous permettre de renvoyer les pièces gagnées. Le voici :
 https://github.com/JessicaJulien/projet/blob/master/Codes/monnayeur1.ino
 * J'ai réalisé un code qui permet de compter le nombre de fentes pendant que la roue tourne. Voici le code :
-
-* Nous avons revu le code de l'initialisation et sommes tombés sur un problème. Si on crée une fente pour chaque logo, on ne pourra plus initialiser la roue. On a donc eu l'idée d'agrandir uniquement la fente de l'initialisation, pour la différencier des autres fentes.
+https://github.com/JessicaJulien/projet/blob/master/Codes/compteFentes.ino 
+Cependant, il n'est pas encore terminé car les tests avec le prototype sont quelques fois faussés.
+* Nous avons revu le code de l'initialisation et sommes tombés sur un problème. Si on crée une fente pour chaque logo, on ne pourra plus initialiser la roue. On a donc eu l'idée d'agrandir uniquement la fente de l'initialisation, pour la différencier des autres fentes. Mais une nouvelle idée est venu. On créera une seule fente pour toute la roue, 
