@@ -11,7 +11,7 @@ J'ai commencé par programmer l'initialisation de la roue. Cela va nous servir l
 https://github.com/JessicaJulien/projet/blob/master/Codes/initialisationRoue.ino 
 Voici une démonstration : 
 <a href="https://www.youtube.com/watch?v=aghbIHAVvek&feature=youtu.be"><img src="https://i9.ytimg.com/vi_webp/aghbIHAVvek/hqdefault.webp?sqp=CITf3eEF&rs=AOn4CLBVnJ4Bq2pxXOr6dprsz5JHd4p_7w" alt="Initialisation de la roue à vitesse lente" /></a>
-Ici, j'ai testé l'initalisation de la roue à vitesse lente car j'ai eu un problème. Notre roue n'est qu'un prototype réalisé à la main donc les découpes ne sont pas parfaites. Ainsi, le détecteur passe quelque fois dans des "vides" et donc arrête la roue alors qu'il y a pas de fentes. On va donc utiliser les découpeuses laser et imprimantes 3D, afin d'obtenir une roue parfaite.
+Ici, j'ai testé l'initialisation de la roue à vitesse lente car j'ai eu un problème. Notre roue n'est qu'un prototype réalisé à la main donc les découpes ne sont pas parfaites. Ainsi, le détecteur passe quelque fois dans des "vides" et donc arrête la roue alors qu'il y a pas de fentes. On va donc utiliser les découpeuses laser et imprimantes 3D, afin d'obtenir une roue parfaite.
 
 * J'ai donc commencé à modéliser les pièces pour aller au FabLab de Sophia.
 
