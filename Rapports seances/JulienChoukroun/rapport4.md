@@ -12,6 +12,7 @@ J'ai amélioré la rotation et l'initialisation de la roue car avec l'ancienne r
 # Séance du 17 Janvier 2019
 
 * Avec Jessica, on a terminé le programme qui permet de choisir la position de la roue. On a rajouté la fonction random() qui permet de faire tourner la roue aléatoirement. Le programme est le suivant :
+https://github.com/JessicaJulien/projet/blob/master/Codes/controleRoue.ino
 Cependant, on avait un problème. A chaque éxécution de notre programme, on avait toujours la même série de nombre aléatoire qui sortait. Puis, on a trouvé sur internet comment résoudre ce problème : grâce à la fonction randomSeed(). Maintenant le problème est résolu.
 Voici une démonstration de notre programme avec notre roue :
 * A partir de maintenant on pourra assembler nos programmes, c'est-à-dire, les programmes de la roue et du monnayeur.
