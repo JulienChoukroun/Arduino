@@ -1,6 +1,6 @@
 # Séance du 17 Janvier 2019
 Aujourd'hui avec Julien nous avions comme objectif de finaliser le système de rotation de la roue. 
-Julien avait commencé à créer un programme pour cela. Il y a d'abord l'initialisation durant laquelle la roue tourne jusqu'au moment où le capteur atteigne la fente.
+Julien avait commencé à créer un programme pour cela. Il y a d'abord l'initialisation durant laquelle la roue tourne jusqu'au moment où le capteur atteint la fente.
 Notre objectif était de faire tourner la roue pendant un certain nombre de secondes avant qu'elle se fige à une certaine position.
 On déterminerait celle-ci grâce à un calcul prenant en compte le temps que la roue met pour faire un tour complet.
 Julien avait donc mesuré ce temps. </br>
