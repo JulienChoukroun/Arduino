@@ -11,4 +11,4 @@ Le résultat final ressemble à cela:
 ![alt text](https://github.com/JessicaJulien/projet/blob/master/Documentation/monnayeur.jpg)
 Le code final pour se servir du monnayeur est le suivant: 
 https://github.com/JessicaJulien/projet/blob/master/Codes/monnayeur2.ino
-T'as vidéo : https://www.youtube.com/watch?v=uqmCoCaso7E&feature=youtu.be
+Voivi une vidéo qui montre le fonctionnement de ce monnayeur : https://www.youtube.com/watch?v=uqmCoCaso7E&feature=youtu.be
