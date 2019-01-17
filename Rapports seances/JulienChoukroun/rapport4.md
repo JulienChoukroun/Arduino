@@ -15,6 +15,6 @@ J'ai amélioré la rotation et l'initialisation de la roue car avec l'ancienne r
 https://github.com/JessicaJulien/projet/blob/master/Codes/controleRoue.ino
 Cependant, on avait un problème. A chaque éxécution de notre programme, on avait toujours la même série de nombre aléatoire qui sortait. Puis, on a trouvé sur internet comment résoudre ce problème : grâce à la fonction randomSeed(). Maintenant le problème est résolu.
 On a aussi eu un autre problème. Pour faire un seul tour complet, notre roue met 390 ms. Mais lorsqu'on veut la faire tourner 10 fois, par exemple, on est obligé d'augmenter le temps de rotation à 460 ms. En effet, notre roue subit des frottements avec notre détecteur pendant les 10 rotations. Notre détecteur n'étant pas très stable, il est difficile de ne pas avoir de frottements même en limant la paroi.
-Voici une démonstration de notre programme avec notre roue :
+Voici une démonstration du programme avec notre roue :
 <a href="https://youtu.be/nJUigsxkim4"><img src="https://i.ytimg.com/vi/nJUigsxkim4/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAlhKNWUaXY5nWeAloN1L3EWfA4bg" alt="Roue qui tourne de façon aléatoire" /></a>
 * A partir de maintenant on pourra assembler nos programmes, c'est-à-dire, les programmes de la roue et du monnayeur.
