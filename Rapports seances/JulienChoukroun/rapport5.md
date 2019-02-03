@@ -8,4 +8,5 @@ Voici une démonstration :
 Le nouveau programme qui contrôle la roue aléaroirement est celui-ci : https://github.com/JessicaJulien/projet/blob/master/Codes/controleRoueNouveau.ino
 Voici une démonstration :
 * Pour la lumière, on va utilisé une bande de led. J'ai donc programmé cette bande. Le programme est : https://github.com/JessicaJulien/projet/blob/master/Codes/lumiereBlanche.ino
-Cela donne : 
+Cela donne : ![alt text](
+![alt text](https://github.com/JessicaJulien/projet/blob/master/Documentation/roueAssembl%C3%A9eFace.jpg "Roue assemblée vue de face")
