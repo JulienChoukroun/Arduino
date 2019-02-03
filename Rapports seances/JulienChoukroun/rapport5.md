@@ -10,4 +10,5 @@ Le nouveau programme qui contrôle la roue aléaroirement est celui-ci : https:/
 Voici une démonstration :
 * Pour la lumière, on va utilisé une bande de led. J'ai donc programmé cette bande. Le programme est : https://github.com/JessicaJulien/projet/blob/master/Codes/lumiereBlanche.ino
 Cela donne : 
+
 ![alt text](https://github.com/JessicaJulien/projet/blob/master/Documentation/RoueEclair%C3%A9e.jpg "Roue éclairée")
