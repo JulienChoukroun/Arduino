@@ -4,7 +4,7 @@
 Et ce capteur fonctionne très bien. Il n'y a plus aucun frottements. On va donc utilisé ce capteur. 
 * J'ai donc adapté nos programmes déjà fait pour ce capteur.
 Le nouveau programme pour l'initialisation est celui-ci : https://github.com/JessicaJulien/projet/blob/master/Codes/initialisationRoueNouveau.ino
-Voici une démonstration :
+Voici une démonstration : https://www.youtube.com/watch?v=4ydrxAV1xTY
 Le nouveau programme qui contrôle la roue aléaroirement est celui-ci : https://github.com/JessicaJulien/projet/blob/master/Codes/controleRoueNouveau.ino
 Voici une démonstration :
 * Pour la lumière, on va utilisé une bande de led. J'ai donc programmé cette bande. Le programme est : https://github.com/JessicaJulien/projet/blob/master/Codes/lumiereBlanche.ino
