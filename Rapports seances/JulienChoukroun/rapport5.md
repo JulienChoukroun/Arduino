@@ -19,4 +19,7 @@ Cela donne :
 
 * J'ai fixé les 3 roues sur le support. J'ai scotché les moteurs sur les pinces avec du scotch double face pour bien maintenir les roues.
 * J'ai rajouté les bandes de led sur les roues.
-* J'ai crée un programme permettant de faire tourner les 3 roues en même temps de façon aléatoire en me servant du programme qui fait tourner une roue aléatoirement. Cela fonctionne bien. Il faudra maintenant le connecter au monnayeur.
+* J'ai crée un programme permettant de faire tourner les 3 roues en même temps de façon aléatoire en me servant du programme qui fait tourner une roue aléatoirement. Le code :
+Voici une démonstration :
+
+Cela fonctionne bien. Il faudra tout de même faire quelques ajustements de hauteur de lumière et de symétrie. 
