@@ -13,3 +13,4 @@ Voici une démonstration :
 Cela donne : 
 ![alt text](https://github.com/JessicaJulien/projet/blob/master/Documentation/RoueEclair%C3%A9e.jpg "Roue éclairée")
 * J'ai commencé la fixation des roues sur un support en bois. J'ai utilisé des pinces qui vont venir s'accrocher aux moteurs.
+![alt text](https://github.com/JessicaJulien/projet/blob/master/Documentation/supportFixationRoues.jpeg "Support de fixation des roues")
