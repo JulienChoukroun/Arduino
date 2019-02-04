@@ -22,4 +22,4 @@ Cela donne :
 * J'ai crée un programme permettant de faire tourner les 3 roues en même temps de façon aléatoire en me servant du programme qui fait tourner une roue aléatoirement. Le code : https://github.com/JessicaJulien/projet/blob/master/Codes/3Roues.ino
 Voici une démonstration :
 
-Cela fonctionne bien. Il faudra tout de même faire quelques ajustements de hauteur de lumière et de symétrie. 
+Cela fonctionne bien. Il faudra tout de même faire quelques ajustements de hauteur de lumière et de symétrie des roues. 
