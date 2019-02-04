@@ -21,5 +21,5 @@ Cela donne :
 * J'ai rajouté les bandes de led sur les roues.
 * J'ai crée un programme permettant de faire tourner les 3 roues en même temps de façon aléatoire en me servant du programme qui fait tourner une roue aléatoirement. Le code : https://github.com/JessicaJulien/projet/blob/master/Codes/3Roues.ino
 Voici une démonstration :
-
+<a href="https://www.youtube.com/watch?v=HAhRJ0OZeJ4"><img src="https://i.ytimg.com/vi/HAhRJ0OZeJ4/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCsr1URX42okY3aMsCuTKnWMq9pkg" alt="Les 3 roues" /></a>
 Cela fonctionne bien. Il faudra tout de même faire quelques ajustements de hauteur de lumière et de symétrie des roues. 
