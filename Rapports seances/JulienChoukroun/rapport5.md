@@ -12,3 +12,4 @@ Voici une démonstration :
 * Pour la lumière, on va utilisé une bande de led. J'ai donc programmé cette bande. Le programme est : https://github.com/JessicaJulien/projet/blob/master/Codes/lumiereBlanche.ino
 Cela donne : 
 ![alt text](https://github.com/JessicaJulien/projet/blob/master/Documentation/RoueEclair%C3%A9e.jpg "Roue éclairée")
+* J'ai commencé la fixation des roues sur un support en bois. J'ai utilisé des pinces qui vont venir s'accrocher aux moteurs.
