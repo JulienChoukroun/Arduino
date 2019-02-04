@@ -14,3 +14,9 @@ Cela donne :
 ![alt text](https://github.com/JessicaJulien/projet/blob/master/Documentation/RoueEclair%C3%A9e.jpg "Roue éclairée")
 * J'ai commencé la fixation des roues sur un support en bois. J'ai utilisé des pinces qui vont venir s'accrocher aux moteurs.
 ![alt text](https://github.com/JessicaJulien/projet/blob/master/Documentation/supportFixationRoues.jpeg "Support de fixation des roues")
+
+# Séance du 4 Février 2019
+
+* J'ai fixé les 3 roues sur le support. J'ai scotché les moteurs sur les pinces avec du scotch double face pour bien maintenir les roues.
+* J'ai rajouté les bandes de led sur les roues.
+* J'ai crée un programme permettant de faire tourner les 3 roues en même temps de façon aléatoire en me servant du programme déjà fait 
