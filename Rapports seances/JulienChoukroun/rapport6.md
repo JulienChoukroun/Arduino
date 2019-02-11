@@ -4,5 +4,6 @@
 * Jessica a calculé les temps de rotation de chacune des roues pour connaître la position de tous les symboles.
 mettre image
 Grâce à cela, j'ai testé ces temps de rotation dans mon programme qui fait tourner les 3 roues. Par exemple, j'ai testé lorsqu'on a en sortie les 3 "7", ou lorsqu'on a en sortie les 3 "raisins". Voici les 2 démonstrations :
+https://www.youtube.com/watch?v=hIYS1Q9AfLY
 Il reste quand même quelques réglages à faire.
 * Enfin, on a crée la boite sur ordinateur. Il faudra aller prochainement au FabLab.
