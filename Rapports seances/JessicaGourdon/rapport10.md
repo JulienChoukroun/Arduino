@@ -1,4 +1,4 @@
-#Séance du 11 Février 2019
+# Séance du 11 Février 2019
 Avant la séance j'ai travaillé sur la création de suites de nombres correspondant à la position du centre de chaque autocollant. Pour cela je me suis servie du temps que met chaque roue à effectuer un tour.
 J'ai donc réalisé des calculs pour associer chaque autocollant de chaque roue à un nombre. Le résultat est le suivant :
 ![alt text](https://github.com/JessicaJulien/projet/blob/master/Documentation/listenombre.jpg)
