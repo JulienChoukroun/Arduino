@@ -1,6 +1,7 @@
 # Séance du 25 Février 2019
 
-* Avec Jessica, nous sommes allés chercher notre boîte chez Castorama. Elle convient parfaitement. https://github.com/JessicaJulien/projet/blob/master/Documentation/BoiteMachine.jpg
+* Avec Jessica, nous sommes allés chercher notre boîte chez Castorama. Elle convient parfaitement. 
+![alt text](https://github.com/JessicaJulien/projet/blob/master/Documentation/BoiteMachine.jpg "Boîte")
 * J'ai installé la lumière sur notre 3ème roue.
 * Avec Jessica, on a travaillé sur l'ensemble roues + monnayeur. Le programme qu'on utilise est le suivant : https://github.com/JessicaJulien/projet/blob/master/Codes/rouesMonnayeur.ino
 Du côté du monnayeur, la sortie des pièces fonctionne bien.
