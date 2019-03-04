@@ -4,3 +4,4 @@
 * Après avoir résolu ce problème, on a mesurer le temps que mettent les roues pour atteindre chaque symbole (8 symboles). On a donc 8 temps différents. Avec ces 8 temps, on a paramétré les différents jackpots (3 jackpots). Voici le code qui résume tout ce qu'on a modifié :
 * Lorsqu'on a voulu connecter le monnayeur à nos roues, on a soudainement eu un problème car notre monnayeur fonctionnait parfaitement auparavant. On a donc changé de moteur et refait les cablâges, mais cela ne fonctionnait toujours pas. Mais on s'est rendu compte que le problème était dû à un cable défaillant. Maintenant le problème est résolu.
 Voici une démonstration de notre machine (preque terminée) :
+Remarque : lorsqu'on branche notre alimentation à différents endroits, la rotation des roues est légèrement modifiée. Ce qui fait que dans la vidéo (prise à la maison), les trois symboles ne sont pas tout à fait alignés, alors qu'en salle de cours elle le sont très bien.
