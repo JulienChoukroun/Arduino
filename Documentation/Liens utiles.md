@@ -12,3 +12,13 @@ https://www.parallax.com/sites/default/files/downloads/900-00025-High-Speed-CR-S
 
 #### Module MP3
 https://www.ebay.fr/itm/YX5300-UART-Control-Serial-MP3-Music-Player-Module-for-Arduino-AVR-ARM-PIC/263548780875?hash=item3d5cbb414b:g:RBsAAOSwZTJa~VDy:rk:5:pf:0
+
+#### Stickers
+https://stickeramoi.com/chiffres-et-numeros/6260-sticker-chiffre-7.html?search_query=stickers+chiffre&results=297#/686-hauteur-5cm/797-votre_coloris-rouge
+https://stickeramoi.com/fuits-legumes-rigolos/11917-sticker-ananas.html
+https://stickeramoi.com/sticker-trefle/15005-sticker-trefle-4-feuilles-vert.html
+https://stickeramoi.com/fuits-legumes-rigolos/11919-sticker-cerise.html
+https://stickeramoi.com/sticker-poker/16929-sticker-poker-carreau-rouge.html
+https://stickeramoi.com/sticker-poker/16928-sticker-poker-coeur-rouge.html
+https://stickeramoi.com/sticker-poker/8169-autocollant-poker-des-jeu-de-casino.html
+https://stickeramoi.com/sticker-poker/16926-sticker-poker-pique-noir.html
