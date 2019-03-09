@@ -1,7 +1,11 @@
 #### Arduino Fruit Machine - Feature Reel
 <a href="https://www.youtube.com/watch?v=QCF7HrBWTgs&t=0s&index=6&list=LLB7UFHfT3-WoMwWvKr9C8wA"><img src="https://i.ytimg.com/vi_webp/QCF7HrBWTgs/hqdefault.webp" alt="Arduino Fruit Machine - Feature Reel" /></a>
 
+#### DIY! Slot machine How to make a Casino Slot machine from cardboard
 <a href="https://www.youtube.com/watch?v=1jY8ld2u5S0"><img src="https://i.ytimg.com/an_webp/GP3BuYGFd1c/mqdefault_6s.webp?du=3000&sqp=CNqMkeQF&rs=AOn4CLCGelrrW-yjIaqdy5KR0iR5rs7RsQ" alt="DIY! Slot machine How to make a Casino Slot machine from cardboard" /></a>
+
+#### Comment fonctionnent les machines à sous ?
+https://www.casino-zen.com/fonctionnement-des-machines-a-sous/
 
 #### Moteurs pas à pas
 https://www.gotronic.fr/cat-moteurs-pas-a-pas-1093.htm
