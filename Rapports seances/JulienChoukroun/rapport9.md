@@ -10,6 +10,6 @@ Gros jackpot "7" 20 jetons :
 Petit jackpot Ananas 5 jetons :
 <a href="https://www.youtube.com/watch?v=7xNCxAcZ2dk"><img src="https://i.ytimg.com/vi/7xNCxAcZ2dk/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLC3NS1GV-7MRW_xBcIsBhpkb49KEQ" alt="Machine A Sous : Petit Jackpot "Ananas" 5 jetons /></a>
 Perdu :
-//<a href="https://www.youtube.com/watch?v=_GDTUbmNEMA"><img src="https://i.ytimg.com/vi/_GDTUbmNEMA/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCzSxXnc7YxHgYzMrMEwwQ_8lseIA" alt="Machine A Sous : Perdu" /></a>
+
 
 Remarque : lorsqu'on branche notre alimentation à différents endroits, la rotation des roues est légèrement modifiée. Ce qui fait que dans les vidéos (prises à la maison), les trois symboles ne sont pas tout à fait alignés, alors qu'en salle de cours elle le sont très bien.
