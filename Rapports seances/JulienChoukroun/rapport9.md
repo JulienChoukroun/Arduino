@@ -11,10 +11,10 @@ Voici 3 démonstrations de la machine à sous.
 Gros jackpot "7" 20 jetons :
 <a href="https://www.youtube.com/watch?v=zs_Bld9j-1k"><img src="https://i.ytimg.com/vi/zs_Bld9j-1k/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCEb7iJUCY4vYwbLXwqyYH7ACF8-Q" alt="Machine A Sous : Gros Jackpot '7' 20 jetons" /></a>
 
-Petit jackpot Ananas 5 jetons :
+Petit jackpot "Ananas" 5 jetons :
 <a href="https://www.youtube.com/watch?v=7xNCxAcZ2dk"><img src="https://i.ytimg.com/vi/7xNCxAcZ2dk/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLC3NS1GV-7MRW_xBcIsBhpkb49KEQ" alt="Machine A Sous : Petit Jackpot 'Ananas' 5 jetons" /></a>
 
 Perdu :
 <a href="https://www.youtube.com/watch?v=_GDTUbmNEMA"><img src="https://i.ytimg.com/vi/_GDTUbmNEMA/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCzSxXnc7YxHgYzMrMEwwQ_8lseIA" alt="Machine A Sous : Perdu" /></a>
 
-Remarque : lorsqu'on branche notre alimentation à différents endroits, la rotation des roues est légèrement modifiée. Ce qui fait que dans les vidéos (prises à la maison), les trois symboles ne sont pas tout à fait alignés, alors qu'en salle de cours elle le sont très bien.
+Remarque : lorsqu'on branche notre alimentation à différents endroits, la rotation des roues est légèrement modifiée. Ce qui fait que dans les vidéos (prises à la maison), les trois symboles ne sont pas tout à fait alignés, alors qu'en salle de cours elle le sont très bien. On essayera donc de prendre de meilleures vidéos.
