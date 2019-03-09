@@ -20,3 +20,7 @@ Perdu :
 <a href="https://www.youtube.com/watch?v=_GDTUbmNEMA"><img src="https://i.ytimg.com/vi/_GDTUbmNEMA/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCzSxXnc7YxHgYzMrMEwwQ_8lseIA" alt="Machine A Sous : Perdu" /></a>
 
 Remarque : lorsqu'on branche notre alimentation à différents endroits, la rotation des roues est légèrement modifiée. Ce qui fait que dans les vidéos (prises à la maison), les trois symboles ne sont pas tout à fait alignés, alors qu'en salle de cours elle le sont très bien. On essayera donc de prendre de meilleures vidéos.
+
+# Séance du 12 Mars 2019
+
+* 
