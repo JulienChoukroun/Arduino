@@ -1,6 +1,6 @@
 Ce projet est réalisé dans le cadre de la formation de prépa intégrée (deuxième année) de l'Ecole Polytechnique de l'Université Côte d'Azur.
 ***
-# Machine A Sous
+# Machine à sous connectée
 ![alt text](https://github.com/JessicaJulien/projet/blob/master/Documentation/Bo%C3%AEte-Machine/machineASous2.jpg "Machine A Sous")
 ## Présentation
 Ce projet a été réalisé avec une carte Arduino Uno.
